@@ -14,8 +14,4 @@ colours  you would like the  card to be; there is a  choice from  zero, one or t
 
 features  are  whether  the  box  should  have  a  sealable  top,  reinforced  bottoms  and reinforced 
 
-corners. The company ‘FlexBox’ specifically create 5 types of boxes which the customers are 
-
-unbeknownst to. Therefore when a box selection is made, not matching one of the five, an error 
-
-message will show up informing them that type of box is not available/made by FlexBox.
+corners.
